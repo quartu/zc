@@ -10,8 +10,8 @@
         "phpunit/phpunit": "5.0.9",
         "phing/phing": "2.12.0",
         "phpdocumentor/phpdocumentor": "v2.8.5",
-        "phpunit/php-invoker": "*",
-        "phpunit/dbunit": ">=1.2"
+        "phpunit/dbunit": ">=1.2",
+        "phpunit/php-invoker": "*"
     },
     "license": "GNU",
     "authors": [
